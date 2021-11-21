@@ -1,5 +1,5 @@
 {
-  "name": "app-version",
+  "name": "@gerrit-hoskins/app-version",
   "version": "0.0.1",
   "description": "Capacitor plugin for retrieving information about the app",
   "main": "dist/plugin.cjs.js",
@@ -13,7 +13,7 @@
     "ios/Plugin/",
     "AppVersion.podspec"
   ],
-  "author": "",
+  "author": "Gerrit Hoskins",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -74,5 +74,7 @@
     "android": {
       "src": "android"
     }
-  }
+  },
+  "homepage": "https://github.com/GerritHoskins/AppVersion#readme",
+  "dependencies": {}
 }
