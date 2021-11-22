@@ -1,5 +1,5 @@
 {
-  "name": "@gerrit-hoskins/app-version",
+  "name": "app-version",
   "version": "0.0.1",
   "description": "Capacitor plugin for retrieving information about the app",
   "main": "dist/plugin.cjs.js",
